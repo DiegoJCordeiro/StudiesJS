@@ -56,7 +56,7 @@
 | ***EcmaScript*** | Utilizado para manipulação do DOM. | [Link](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
 |   ***CSS***      | Utilizado para estilização das páginas HTML.      | [Link](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |(https://nodejs.org/pt-br/docs/) |
 |   ***JSBin***    | Console interativa. Muito utilizado para testes e compartilhamento de código. | [Link](https://jsbin.com/?html,output) |
-|   ***Exemplos***    | Exemplos criados durante o estudo em Javascript. | [Link](./docs/pages/EXAMPLES.md) |
+|   ***Exemplos***    | Exemplos criados durante o estudo em Javascript. | [Link](./docs/pages/Examples.md) |
 
 </br>
 <hr>
