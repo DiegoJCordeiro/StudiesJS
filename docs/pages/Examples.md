@@ -1,3 +1,5 @@
+[Voltar para a página inicial](../../Readme.md)
+
 <img src="../images/javascript_image.png " width=250>
 
 # **Exemplos**
