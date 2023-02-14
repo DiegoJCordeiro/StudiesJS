@@ -61,6 +61,12 @@
 </br>
 <hr>
 
+#### **Sobre**
+
+*Esta seção possuí o Link abaixo que vos leva para o descritivo do autor do repositório.*
+
+[Link](./docs/pages/Author.md)
+
 #### **Redes sociais**
 
 *Se estiver com alguma dúvida, se sinta a vontade para me chamar em alguma das redes sociais.*
