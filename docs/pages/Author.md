@@ -9,7 +9,7 @@
 </br>
 <hr>
 
-#### ***Soft Skills***
+#### ***Hard Skills***
 
 - Backend
   - Java **(Bibliotecas + Frameworks)**
