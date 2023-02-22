@@ -35,8 +35,9 @@ do {
     counter++
 } while(counter < 3);
 
+let nomes = ['Diego', 'Mayra', 'Davi Lucca']
 
-for(let iter = 0; iter <= 3; iter++) {
+for(let iter = 0; iter <= nomes['length']; iter++) {
 
-    console.log(`O valor do iter é ${iter}`)
+    console.log(`O nome iterado é ${nomes[iter]}`)
 }

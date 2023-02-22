@@ -26,8 +26,8 @@
 
 | Nome | Descrição | Concluído S/N |
 |------|------------|--------------|
-| ***Base de dados*** | Aprender integrar o JS com banco de dados. | N |
-| ***Testes*** | Aprender testes unitários e  integração para JS. | N |
+| ***Integração*** | Aprender integrar o JS com outra API. | N |
+| ***Testes*** | Aprender testes unitários e integração para JS. | N |
 | ***Documentação*** | Aprender a documentar os projetos. | N |
 | ***GOF*** | Implementar alguns padrões de projeto. | N |
 
@@ -71,4 +71,4 @@
 
 *Se estiver com alguma dúvida, se sinta a vontade para me chamar em alguma das redes sociais.*
 
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://www.instagram.com/developr.mano/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://www.linkedin.com/in/diego-cordeiro-552948229/) [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://www.youtube.com/@manodev5540) 
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://www.instagram.com/developer.mano/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://www.linkedin.com/in/diego-cordeiro-552948229/) [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://www.youtube.com/@manodev5540) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://medium.com/@diegocordeiro.contatos) 
