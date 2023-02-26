@@ -45,6 +45,7 @@
 | ***js/strict_mode.js*** | Intermediário | Descreve o strict mode em JavaScript. | [Link](../../js/strict_mode.js) |
 | ***js/debugger.js*** | Intermediário | Descreve os metodos utilizado para debugar em JavaScript. | [Link](../../js/debugger.js) |
 | ***js/regular_expressions.js*** | Intermediário | Descreve os metodos utilizado para expressões regulares em JavaScript. | [Link](../../js/regular_expressions.js) |
+| ***js/asyncronous.js*** | Intermediário | Descreve paralelismo em JavaScript. | [Link](../../js/asyncronous.js) |
 
 </br>
 <hr>

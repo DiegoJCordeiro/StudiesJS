@@ -26,7 +26,7 @@
 
 | Nome | Descrição | Concluído S/N |
 |------|------------|--------------|
-| ***Integração*** | Aprender integrar o JS com outra API. | N |
+| ***Integração*** | Aprender integrar o JS com outra API. | S |
 | ***Testes*** | Aprender testes unitários e integração para JS. | N |
 | ***Documentação*** | Aprender a documentar os projetos. | N |
 | ***GOF*** | Implementar alguns padrões de projeto. | N |
